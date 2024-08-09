@@ -1,0 +1,15 @@
+.nav-bar p{
+	font-size: 30px;
+	color: beige;
+}
+
+.nav-bar{
+	display: flex;
+    justify-content: space-between;
+}
+
+.body{
+	margin: 50px !important;
+	padding: 30px !important;
+}
+
